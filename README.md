@@ -29,7 +29,7 @@ Similar to the random kindle highlights emailing service Readwise, this Google S
   
     *Example Email:*
 
-![Image](https://drive.google.com/file/d/10Aic-a53meatVaOhXKu-cNljOgbuH0X9)
+![Image](https://drive.google.com/uc?export=view&id=10Aic-a53meatVaOhXKu-cNljOgbuH0X9)
   
   - Go to 'Tools' > 'Script editor'. This is where the code for the automation is stored.
   - Click the clock icon on the top bar or go to 'Edit > Current Project Triggers'.
