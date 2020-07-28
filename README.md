@@ -25,7 +25,7 @@ Similar to the random kindle highlights emailing service Readwise, this Google S
 *To set up the automatic daily emails and test the emailer, follow these steps:*
 
   - Go to the 'Email Content' sheet, in the cell that contains 'youremailgoeshere@email' type your email address.
-  - To test the 'Send Email' button, press it, if a box appears retuesting authorisation, click continue, choose an email address, click advanced, click 'go to Random Kindle Highlights Emailer (unsafe) - click Allow. To receive a test email press the 'Send Email' button and check your emails.
+  - To test the 'Send Email' button, press it, if a box appears retuesting authorisation, click continue, choose an email address, click advanced, click 'Go to Random Kindle Highlights Emailer (unsafe)' - click Allow. To receive a test email press the 'Send Email' button and check your emails.
   
     *Example Email:*
 
@@ -33,7 +33,7 @@ Similar to the random kindle highlights emailing service Readwise, this Google S
   
   - Go to 'Tools' > 'Script editor'. This is where the code for the automation is stored.
   - Click the clock icon on the top bar or go to 'Edit > Current Project Triggers'.
-  - Click 'Add Trigger': Under 'Choose which function to run' select 'highlightsEmail', under 'Select event source' select 'Time-driven', under 'Select type of time based trigger' select 'Day timer', under 'Select time of day' select the time of day you want to receive the automatic email, click save. If a screen appears that reads 'This app isn't verified', click 'Advanced' > 'Go to portfolio Scripts (unsafe)' > 'Allow'.
+  - Click 'Add Trigger': Under 'Choose which function to run' select 'highlightsEmail', under 'Select event source' select 'Time-driven', under 'Select type of time based trigger' select 'Day timer', under 'Select time of day' select the time of day you want to receive the automatic email, click save. If a screen appears that reads 'This app isn't verified', click 'Advanced' > 'Go to Random Kindle Highlights Emailer (unsafe)' > 'Allow'.
   
 The Random Kindle Highlights Daily Automatic Emailer is now set up and running.
   
