@@ -14,7 +14,7 @@ Similar to the random kindle highlights emailing service Readwise, this Google S
 
 *To get your clippings file from your kindle, and import them into the spreadsheet, follow these steps:*
 
-  - Go to the website https://www.clippings.io/, make an account, click import, and follow the instructions for the method you wish to import your clippings. (I use the 'Kindle 'My Clippings.txt'' method)
+  - Go to the website https://www.clippings.io/, make an account, click import, and follow the instructions for your method of choice for to import your clippings. (I use the 'Kindle 'My Clippings.txt'' method)
   - Once your clippings are imported, go to 'Export' and choose 'Excel 2007' and download the file.
   - Open the downloaded 'clippings_export' file, copy the all data including all headings.
   - Open the Random Kindle Highlights Emailer Template document, click on the sheet 'Paste Clippings Here' and paste the data into cell A1 to replace the template content.
