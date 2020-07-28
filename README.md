@@ -17,7 +17,7 @@ Similar to the random kindle highlights emailing service Readwise, this Google S
   - Go to the website https://www.clippings.io/, make an account, click import, and follow the instructions for your method of choice to import your clippings. (I use the 'Kindle 'My Clippings.txt'' method)
   - Once your clippings are imported, go to 'Export' and choose 'Excel 2007' and download the file.
   - Open the downloaded 'clippings_export' file, copy the all data including all headings.
-  - Open the Random Kindle Highlights Emailer Template document, click on the sheet 'Paste Clippings Here' and paste the data into cell A1 to replace the template content.
+  - Open the Random Kindle Highlights Emailer Template document, click on the sheet 'Paste Clippings Here' and paste the data into cell 'A1' - this will replace the template content.
   - Press ctrl+f, press the 3 dots settings icon for more options, in 'Find' type 'Notes: ' (make sure the space space after the : is included), for 'Search', change 'All sheets' to 'Specific range', select column I (the notes column), click 'Replace All' and 'Done'. 
   
   **3) Setting up the automatic emailer.**
