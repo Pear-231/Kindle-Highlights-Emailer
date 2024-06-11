@@ -1,4 +1,4 @@
-# Kindle Highlights Emailer
+# Kindle-Highlights-Emailer
 
 # What does it do?
 Similar to the kindle highlights emailing service Readwise, this Google Sheets document will send you a daily email containing a random highlight, the attached note, and the book they come from, using your kindle clippings file.
